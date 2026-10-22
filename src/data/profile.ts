@@ -48,7 +48,7 @@ export const profile = {
   /** Hero sub-line. Two short clauses read best here. */
   tagline: "Product engineering intern at Rox AI. Built EcoPulse, which cut an island's diesel use by 41%.",
   about: [
-    "I started with Arduino hardware in 2023 and moved into software. Now I build full-stack web apps, and I speak English and Japanese.",
+    "I started with Arduino hardware in 2023, then followed the code into software. Today I build full-stack web apps.",
   ],
   /** Short list under the About copy. */
   facts: [
